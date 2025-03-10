@@ -1,0 +1,11 @@
+# Ignore output directory
+output/
+output/*
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
